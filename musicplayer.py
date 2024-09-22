@@ -4,7 +4,6 @@ from tkinter import filedialog
 import pygame
 import os
 from tkinter import messagebox
-# Creating main class called "MusicPlayer" and initializing the root window
 class MusicPlayer:
 
 
